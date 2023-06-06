@@ -1,1 +1,1 @@
-# -stylegan-knowledge-distillation
+# stylegan-knowledge-distillation
